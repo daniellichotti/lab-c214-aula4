@@ -15,7 +15,7 @@ e serem abertos e executados pela IDE de preferencia!</p>
 
 ## Onde os usuários podem encontrar ajuda sobre seu projeto?
 
-
+Pode enviar uma mensagem por email para danielcoelho@gec.inatel.br
 
 ## Autores
 
